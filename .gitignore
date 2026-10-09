@@ -1,0 +1,19 @@
+# Secrets — KHÔNG BAO GIỜ commit
+.env
+*.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Tài liệu môn học do giảng viên cung cấp — không đưa lên GitHub
+Ref/
+
+# OS / editor noise
+Thumbs.db
+Desktop.ini
